@@ -1,0 +1,4 @@
+[line-bot]
+channel_access_token = y43eeAiOzG3bcDfT10j/tFVwU4yeuQlaGB/H88qqF696hkdXGqMM5kJfG4VyLn/aZUKaD6JITfNv+0KVlWp3V98ds7etAm1v2erxrs8y30oEjU9MAwbbbXPgPQpKfzCg7i3KIjeZhP68PJGK1TEF7gdB04t89/1O/w1cDnyilFU=
+channel_secret = 65989eaeb3006801cc6559c9fccf7590
+
